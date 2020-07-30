@@ -1,2 +1,2 @@
 # MOS
-Moodle Open Source
+Open Source application for academic courses.
